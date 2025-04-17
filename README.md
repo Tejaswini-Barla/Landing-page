@@ -1,1 +1,2 @@
-# Landing-page
+Landing-page
+A GitHub landing page is a project showcase or portfolio hosted via GitHub Pages for free. It typically includes project descriptions, visuals, and links to repositories or demos. Built with HTML/CSS or frameworks like React, it can be customized using templates for quick setup. Key elements are clear CTAs, mobile responsiveness, and easy navigation. This boosts visibility and professionalism for your GitHub projects.
